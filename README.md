@@ -25,7 +25,7 @@ Simulation setup
 ----------------
 
 You need Aseba version 1.6.
-You can download Aseba from [github](https://github.com/aseba-community/aseba).
+You can download Aseba from [github](https://github.com/aseba-community/aseba/tree/release-1.6.x).
 Once Aseba is downloaded, compile it according to the instructions on github.
 Then, first launch playground, open one of the 6 scenarios in the `simulation/` directory or pass it to the command line.
 For instance:

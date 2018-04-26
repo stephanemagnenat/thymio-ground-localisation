@@ -24,7 +24,7 @@ This can be performed both in simulation or with a physical robot.
 Simulation setup
 ----------------
 
-You need the master branch of Aseba or, when released (sometimes in 2017), version 1.6 or later.
+You need Aseba version 1.6.
 You can download Aseba from [github](https://github.com/aseba-community/aseba).
 Once Aseba is downloaded, compile it according to the instructions on github.
 Then, first launch playground, open one of the 6 scenarios in the `simulation/` directory or pass it to the command line.
